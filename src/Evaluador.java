@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TareaCorta1 {
+public class Evaluador {
 
     public static void main(String[] args) {
 
