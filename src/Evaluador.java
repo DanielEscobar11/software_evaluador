@@ -6,5 +6,10 @@ public class Evaluador {
 
         Scanner sc = new Scanner(System.in);
 
-        int opcion = 0;
+        int opcion;
         double x, y, resultado;
+        do {
+
+            System.out.println("\n==============================");
+            System.out.println("         MENU PRINCIPAL");
+            System.out.println("==============================");
